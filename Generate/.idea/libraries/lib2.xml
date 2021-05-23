@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="lib2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib2/spring-webmvc-4.1.4.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib2/spring-context-4.1.4.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib2/spring-beans-4.1.4.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib2/spring-core-4.1.4.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib2/spring-web-4.1.4.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

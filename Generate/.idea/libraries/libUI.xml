@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="libUI">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libUI/org.eclipse.ui.workbench_3.107.1.v20160120-2131.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libUI/org.eclipse.core.runtime_3.11.1.v20150903-1804.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libUI/org.eclipse.text_3.5.400.v20150505-1044.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libUI/org.eclipse.swt.win32.win32.x86_64_3.104.2.v20160212-1350.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libUI/org.eclipse.equinox.registry_3.6.0.v20150318-1503.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libUI/org.eclipse.jface.text_3.10.0.v20150603-1752.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libUI/org.eclipse.osgi_3.10.102.v20160118-1700.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libUI/org.eclipse.core.commands_3.7.0.v20150422-0725.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libUI/org.eclipse.equinox.common_3.7.0.v20150402-1709.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libUI/org.eclipse.ui.forms_3.6.200.v20150506-2029.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libUI/org.eclipse.jface_3.11.1.v20160128-1644.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libUI/com.ibm.icu_54.1.1.v201501272100.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

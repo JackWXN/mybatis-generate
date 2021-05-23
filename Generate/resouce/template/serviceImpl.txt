@@ -1,0 +1,60 @@
+package com.${packageName}${packageName2}.service.impl;
+
+import com.${packageName}.model.${modelUpName};
+import com.${packageName}.service.${modelUpName}Service;
+import com.${packageName}.dao.${modelUpName}Mapper;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+import java.util.*;
+
+@Service
+public class ${modelUpName}ServiceImpl implements ${modelUpName}Service {
+	
+	@Autowired
+    private ${modelUpName}Mapper ${modelName}Mapper;
+	
+	//主键获取
+	public ${modelUpName} getById(${keyType} id) {
+		return ${modelName}Mapper.selectByPrimaryKey(id);
+	}
+	
+	//获取无参list
+	public List<${modelUpName}> getList() {
+		return null;
+	}
+	
+	//获取有参数list
+	public List<${modelUpName}> getList(${modelUpName} model) {
+		return null;
+	}
+	
+	//获取带分页list
+	public List<${modelUpName}> getPageList(Page<${modelUpName}> page) {
+		return null;
+	}
+	
+	//通过条件获取
+	public ${modelUpName} getByModel(${modelUpName} model) {
+		return null;
+	}
+
+	//保存对象
+	public int save(${modelUpName} model) {
+		return ${modelName}Mapper.insert(model);
+	}
+
+	//更新对象
+	public int update(${modelUpName} model) {
+		return ${modelName}Mapper.updateByPrimaryKey(model);
+	}
+	
+	//删除对象
+	public int deleteById(${keyType} id) {
+		return ${modelName}Mapper.deleteByPrimaryKey(id);
+	}
+	
+	//其他查询
+	public Map<String, Object> getOther() {
+		return null;
+	}
+}
